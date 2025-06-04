@@ -73,5 +73,3 @@ Blender (for assets)
 Clone this repo:
 git clone https://github.com/your-repo/zombie-shooter-vr.git
 
-
-this is the read me!
